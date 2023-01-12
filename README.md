@@ -9,7 +9,7 @@ comment  créer une salle de discussion dans laquelle plusieurs utilisateurs peu
 # Solution:
 Application java utilisant les sockets mode non connecter # UDP (User Datagram Protocol)
 
-Les Services offre Par Application :
+# Les Services offre Par Application :
 
 1. Enregistrement :
 
